@@ -3,7 +3,6 @@
     <div class="outBox">
       <li v-for="item in num">8888</li>
       <p>加载中</p>
-      <p>加载中</p>
     </div>
   </div>
 </template>
